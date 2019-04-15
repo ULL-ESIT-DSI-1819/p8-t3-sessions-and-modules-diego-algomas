@@ -1,0 +1,6 @@
+[submodule "auth-diego-algomas"]
+	path = auth-diego-algomas
+	url = git@github.com:ULL-ESIT-DSI-1819/auth-diego-algomas.git
+[submodule "server-auth-diego-algomas"]
+	path = server-auth-diego-algomas
+	url = git@github.com:ULL-ESIT-DSI-1819/server-auth-diego-algomas.git
